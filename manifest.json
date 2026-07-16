@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Attachment Size",
+  "version": "1.0.0",
+  "description": "Display attachment file sizes in item list",
+  "author": "normanify",
+  "homepage_url": "https://github.com/normanify/zotero-attach-size",
+  "icons": {
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
+  },
+  "applications": {
+    "zotero": {
+      "id": "attach-size@norman",
+      "strict_min_version": "7.0",
+      "strict_max_version": "*",
+      "update_url": "https://raw.githubusercontent.com/normanify/zotero-attach-size/main/updates.json"
+    }
+  }
+}

@@ -26,6 +26,8 @@ After installation and restart:
 2. Check **Size** in the column picker
 3. The column displays attachment sizes automatically
 
+![Screenshot](sample.png)
+
 ## Build from Source
 
 ```bash
